@@ -2,6 +2,23 @@
 
 Aplikasi desktop berbasis Java Swing untuk sistem pemesanan dan booking usaha laundry. Dikembangkan sebagai tugas UAS mata kuliah Pemrograman Dasar.
 
+## Preview
+
+### Login
+![Login](screenshot/washygo_login.PNG)
+
+### Registrasi
+![Registrasi](screenshot/washygo_daftar.PNG)
+
+### Dashboard
+![Dashboard](screenshot/washygo_dashboard.PNG)
+
+### Form Pemesanan
+![Form Pemesanan](screenshot/washygo_pesan.PNG)
+
+### Data Pesanan
+![Data Pesanan](screenshot/washygo_pesanan.PNG)
+
 ## Fitur
 
 - **Autentikasi** - Login dan registrasi pengguna
@@ -42,4 +59,3 @@ src/
 └── com/component/  # Custom Swing components
 ```
 
-## Kelompok 6 - Semester 1
